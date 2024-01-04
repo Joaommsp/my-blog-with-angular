@@ -1,27 +1,29 @@
 # AngularBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+### Um pequeno Blog feito com Angular
+
+Este projeto foi gerado com o Angular CLI na versão 14.1.2.
+
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100" />
+</p>
 
 ## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Execute ng serve para iniciar um servidor de desenvolvimento. Navegue até http://localhost:4200/. A aplicação será recarregada automaticamente se você modificar qualquer um dos arquivos de origem.
 
 ## Further help
+Para obter mais ajuda sobre o Angular CLI, use ng help ou consulte a página Visão Geral e Referência de Comandos do Angular CLI.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![](images/MacBook%20Pro-1704398474327.jpeg)
+
+## Responsive Design
+Sempre busco desenvolver projetos responsivos , mesmo em projetos pequenos
+
+![](images/iPad-1704398598055.jpeg)
+
+## Mobile
+
+![](images/iPhone%2012%20Pro-1704398616537.jpeg)
